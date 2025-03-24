@@ -1,6 +1,5 @@
 package com.dailycodework.dreamshops.service.category;
 
-
 import com.dailycodework.dreamshops.model.Category;
 
 import java.util.List;
